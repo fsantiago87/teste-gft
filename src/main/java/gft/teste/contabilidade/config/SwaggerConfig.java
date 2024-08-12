@@ -20,7 +20,7 @@ public class SwaggerConfig {
     private static final String API_TITLE = "Contabilidade API";
     private static final String API_DESCRIPTION = "REST API for contabilidade management";
     private static final String CONTACT_NAME = "Felipe Santiago";
-    private static final String CONTACT_GITHUB = "https://gtihub.com/xxxx";
+    private static final String CONTACT_GITHUB = "https://github.com/fsantiago87/teste-gft";
     private static final String CONTACT_EMAIL = "fsantiago87@gmail.com";
 
     @Bean
